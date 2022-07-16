@@ -3,4 +3,3 @@
 - I’m currently learning python, MIL, C++
 - Reach me by my email 3248569436@qq.com
 - Thank you for your reading
-- 
